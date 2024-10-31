@@ -77,4 +77,4 @@ inlet: !include "inlet.yaml"
 console: !include "console.yaml"
 
 # Remove the following line if you don't want to get demo data
-demo-exporter: !include "demo.yaml"
+#demo-exporter: !include "demo.yaml"
